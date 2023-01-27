@@ -14,5 +14,5 @@
             # Use this username's contribution graph  
             user_name: ngtrgiabaoB2012063
             # Text on contribution graph 
-            text: JASINERI
+            text: ngtrgiabao
        - uses: jasineri/simple-push-action@v1
