@@ -5,7 +5,7 @@
 
 ![259420965_1076823629731208_8053683811752425098_n](https://user-images.githubusercontent.com/95952006/215120311-0ed3b101-2d87-4f27-83df-59380d5968e0.jpg)
 
-![gitartwork](gitartwork.svg)
+![snake gif](https://github.com/ngtrgiabaoB2012063/ngtrgiabaoB2012063/blob/output/github-contribution-grid-snake.gif)
 
 
  <a aligh="left" href="https://www.linkedin.com/in/gbao/" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/linkedin.svg" alt="LinkedIn" width="22" height="22" /></a>  
