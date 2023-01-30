@@ -1,8 +1,6 @@
 # Nguyen Tran Gia Bao
 ### Software Engineer
 
-⤷ Have a strong understanding of ReactJS, as well as how to utilize static function components, still learning to become FullStack
-
 ![259420965_1076823629731208_8053683811752425098_n](https://user-images.githubusercontent.com/95952006/215120311-0ed3b101-2d87-4f27-83df-59380d5968e0.jpg)
 
 
