@@ -1,7 +1,7 @@
 # Nguyen Tran Gia Bao <img src="https://64.media.tumblr.com/3739b4732fe715eae5ac27346bc3157e/a76dcdaa54da5967-93/s250x400/93f54a7a373ad886875eadf35d9da7558fbdbe44.png" width="64px" height="64px" alt="pokemon">
 ### Software Engineer
 
-👨 My name is Yanji and I'm studying Software Engineer 2024. I'm from Vietnam and my goal is to become a software engineer.
+👨 My name is Yanji and I'm studying Software Engineer 2024. I'm from Vietnam and my goal is to become a Software Engineer.
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31tsszeyy7cbfka7lhcaxpgw3a4u&cover_image=true&theme=novatorem&bar_color=74a7fe&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
