@@ -1,6 +1,8 @@
 # Nguyen Tran Gia Bao
 ### Software Engineer
 
+👨 My name is Yanji and I'm studying Software Engineer 2024. I'm from Vietnam and my goal is to become a software engineer.
+
 ![259420965_1076823629731208_8053683811752425098_n](https://user-images.githubusercontent.com/95952006/215120311-0ed3b101-2d87-4f27-83df-59380d5968e0.jpg)
 
 
