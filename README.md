@@ -1,5 +1,5 @@
 # Nguyen Tran Gia Bao
-### Frontend Developer | MEARN STACK | REACT
+### Software Engineer
 
 ⤷ Have a strong understanding of ReactJS, as well as how to utilize static function components, still learning to become FullStack
 
