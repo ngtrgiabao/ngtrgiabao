@@ -1,4 +1,4 @@
-# Nguyen Tran Gia Bao (Yanji) <img src="https://64.media.tumblr.com/3739b4732fe715eae5ac27346bc3157e/a76dcdaa54da5967-93/s250x400/93f54a7a373ad886875eadf35d9da7558fbdbe44.png" width="64px" height="64px" alt="pokemon">
+# Nguyen Tran Gia Bao (Yanji) <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="64px" height="64px"/>
 ### Software Engineer
 
 👨 My name is Bao and I'm studying Software Engineer 2024. I'm from Vietnam and my goal is to become a Software Engineer.
@@ -9,7 +9,7 @@
  
  <a href=https://www.linkedin.com/in/gbao/> <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn"> </a> <img src="https://komarev.com/ghpvc/?username=ngtrgiabaoB2012063&color=blue">
  
- ### 📈 My Stats
+ ### <img src="https://64.media.tumblr.com/3739b4732fe715eae5ac27346bc3157e/a76dcdaa54da5967-93/s250x400/93f54a7a373ad886875eadf35d9da7558fbdbe44.png" width="64px" height="64px" alt="pokemon"> My Stats
  
  
  
