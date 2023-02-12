@@ -12,7 +12,7 @@
  ```java
 class ngtrgiabao {
     public int seft_class = 2024;
-    public String seft_school = "CTU";
+    public String seft_school = "CTU 🍍";
     public String self_pronouns = "he/him";
     public String[] self_hobbies = ["programming", "music", "Youtube"];
     public String[] self_programming_languages = ["TypeScript", "JavaScript"];
