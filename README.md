@@ -10,7 +10,7 @@
  <a href=https://www.linkedin.com/in/gbao/> <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn"> </a> <img src="https://komarev.com/ghpvc/?username=ngtrgiabaoB2012063&color=blue">
  
  ```java
-class ngtrgiabao{
+class ngtrgiabao {
     public int seft_class = 2024;
     public String seft_school = "CTU";
     public String self_pronouns = "he/him";
