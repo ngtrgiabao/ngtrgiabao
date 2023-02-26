@@ -8,7 +8,6 @@
 ![259420965_1076823629731208_8053683811752425098_n](https://user-images.githubusercontent.com/95952006/215120311-0ed3b101-2d87-4f27-83df-59380d5968e0.jpg)
  
  <a href=https://www.linkedin.com/in/gbao/> <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=blue&logo=linkedIn"> </a>
- <a href=https://www.twitter.com/__yanji__/> <img src="https://img.shields.io/badge/-Twitter-0e76a8?style=blue&logo=twitter"> </a>
  <img src="https://komarev.com/ghpvc/?username=ngtrgiabaoB2012063&color=blue">
  
  ```java
