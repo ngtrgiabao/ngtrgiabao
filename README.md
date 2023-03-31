@@ -1,4 +1,4 @@
-# Nguyen Tran Gia Bao (Yanji) <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="64px" height="64px"/>
+# Nguyen Tran Gia Bao (Yanji) 
 ### Software Engineer
 
 My name is Bao and I'm studying Software Engineer 2024. I'm from Vietnam and my goal is to become a Software Engineer.
