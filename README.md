@@ -20,16 +20,16 @@ class ngtrgiabao {
 }   
 ```
 
-[![Yanji's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ngtrgiabaoB2012063&theme=github-compact)](https://github.com/ngtrgiabaoB2012063/github-readme-activity-graph)
+[![Yanji's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ngtrgiabao&theme=github-compact)](https://github.com/ngtrgiabao/github-readme-activity-graph)
  
  ### <img src="https://64.media.tumblr.com/3739b4732fe715eae5ac27346bc3157e/a76dcdaa54da5967-93/s250x400/93f54a7a373ad886875eadf35d9da7558fbdbe44.png" width="64px" height="64px" alt="pokemon"> My Stats
  
  
  
- <img src="https://github-readme-stats.vercel.app/api?username=ngtrgiabaoB2012063&theme=tokyonight&show_icons=true&count_private=true">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ngtrgiabaoB2012063&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+ <img src="https://github-readme-stats.vercel.app/api?username=ngtrgiabao&theme=tokyonight&show_icons=true&count_private=true">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ngtrgiabao&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ngtrgiabaoB2012063&theme=tokyonight&layout=compact&langs_count=6">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ngtrgiabao&theme=tokyonight&layout=compact&langs_count=6">
 
 <br/>
 
