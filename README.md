@@ -19,8 +19,6 @@ class ngtrgiabao {
     public String[] self_programming_languages = ["TypeScript", "JavaScript"];
 }   
 ```
-
-[![Yanji's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ngtrgiabao&theme=github-compact)](https://github.com/ngtrgiabao/github-readme-activity-graph)
  
  ### <img src="https://64.media.tumblr.com/3739b4732fe715eae5ac27346bc3157e/a76dcdaa54da5967-93/s250x400/93f54a7a373ad886875eadf35d9da7558fbdbe44.png" width="64px" height="64px" alt="pokemon"> My Stats
  
