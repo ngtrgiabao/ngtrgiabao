@@ -12,11 +12,11 @@ My name is Bao and I'm studying Software Engineer 2024. I'm from Vietnam and my 
  
  ```java
 class ngtrgiabao {
-    public int seft_class = 2024;
-    public String seft_school = "CTU 🍍";
-    public String self_pronouns = "he/him";
-    public String[] self_hobbies = ["programming", "music", "Youtube"];
-    public String[] self_programming_languages = ["TypeScript", "JavaScript"];
+    private int self_class = 2024;
+    private String self_school = "CanTho University 🍍";
+    private String self_pronouns = "he/him";
+    private String[] self_hobbies = ["Programming", "Music", "Youtube"];
+    private String[] self_programming_languages = ["JavaScript", "TypeScript"];
 }   
 ```
  
