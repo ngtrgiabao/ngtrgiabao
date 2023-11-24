@@ -32,6 +32,11 @@ class ngtrgiabao {
 
 <br/>
 
+## 😫 Leetcode Stats
+![LeetCode Stats](https://leetcode.card.workers.dev/ngtrgiabao251002?theme=dark&font=source_code_pro&extension=null)
+
+<br/>
+
 <div align="center">
     <img src="https://cultofthepartyparrot.com/guests/hd/nyanparrot.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/guests/partyowl.gif" width="30" height="30"/>
