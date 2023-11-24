@@ -32,7 +32,7 @@ class ngtrgiabao {
 
 <br/>
 
-## 😫 Leetcode Stats
+## 🍍Leetcode Stats
 ![LeetCode Stats](https://leetcode.card.workers.dev/ngtrgiabao251002?theme=dark&font=source_code_pro&extension=null)
 
 <br/>
