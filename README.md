@@ -37,6 +37,14 @@ class ngtrgiabao {
 
 <br/>
 
+## ✨ Project Showcase
+* [Yanji Social](https://github.com/ngtrgiabao/yanji-social) - Full-stack Social Media Platform with React, TailwindCSS, MongoDB, Socket.io
+* [Meet With Us](https://github.com/ngtrgiabao/meet-with-us) - Google Meet Clone
+* [Sorting Visulizer](https://github.com/ngtrgiabao/Sorting-Visualizer) - Simple Sorting Visualizer 
+
+
+<br/>
+
 <div align="center">
     <img src="https://cultofthepartyparrot.com/guests/hd/nyanparrot.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/guests/partyowl.gif" width="30" height="30"/>
