@@ -25,7 +25,7 @@
 <!--Languages and Tools Section-->       
 <h2 align="center">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2> 
 <p align="center">
- <img width="500px"  src="https://skillicons.dev/icons?i=react,js,html,css,py,nodejs,express,md,postgres,mongo,git,vscode,docker,postman,dotnet,ts,vite,docker&perline=10"  />
+ <img width="500px"  src="https://skillicons.dev/icons?i=react,js,html,css,py,nodejs,md,postgres,mongo,git,vscode,docker,postman,dotnet,ts,vite,docker&perline=9"  />
 </p>
 <br />
 
