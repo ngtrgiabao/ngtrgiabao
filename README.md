@@ -1,5 +1,5 @@
 # Nguyen Tran Gia Bao (Yanji) 
-### Software Engineer
+### Software Engineer | Founder The FDEV
 
 My name is Bao and I'm studying Software Engineer 2024. I'm from Vietnam and my goal is to become a Software Engineer.
 
