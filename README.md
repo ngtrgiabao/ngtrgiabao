@@ -1,5 +1,5 @@
 # Nguyen Tran Gia Bao (Yanji) 
-### Software Engineer | Founder The FDEV
+### Software Engineer | Co-Founder Code Club Vietnam | Founder The FDEV
 
 ![259420965_1076823629731208_8053683811752425098_n](https://user-images.githubusercontent.com/95952006/215120311-0ed3b101-2d87-4f27-83df-59380d5968e0.jpg)
 
