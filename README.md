@@ -17,7 +17,7 @@
 
 - ✨ Student of life :)
 - 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
-- ✍ I write technical blogs, You can visit my blog site at [LinkdIn](https://www.linkedin.com/in/gbao/).
+- ✍ I write technical blogs, You can visit my blog site at [Linkdin](https://www.linkedin.com/in/gbao/).
 - ❤ Contributing to Open Source.
 - 💻 Visit my [Portfolio](https://yanji-porfolio.vercel.app/) for more details about me.
 <!--End Intro-->
