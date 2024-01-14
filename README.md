@@ -123,7 +123,8 @@
 * [Yanji Social](https://github.com/ngtrgiabao/yanji-social) - Full-stack Social Media Platform with React, TailwindCSS, MongoDB, Socket.io
 * [Meet With Us](https://github.com/ngtrgiabao/meet-with-us) - Google Meet Clone with React, TailwindCSS, Firebase, MongoDB, Socket.io
 * [Shoes Shop](https://ngtrgiabao.github.io/Shoes-shop/) - UI Shoes Shop with HTML, CSS, JavScript
-* [Sorting Visulizer](https://github.com/ngtrgiabao/Sorting-Visualizer) - Simple Sorting Visualizer 
+* [Sorting Visulizer](https://github.com/ngtrgiabao/Sorting-Visualizer) - Simple Sorting Visualizer
+* [Yogurt Shop](https://ngtrgiabao.github.io/yogurt-shop-app/index.html) - UI Yogurt Shop with HTML, CSS, JavaScript
 
 <br/>
 
