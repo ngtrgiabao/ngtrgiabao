@@ -120,6 +120,9 @@
 
 
 ## ✨ Project Showcase
+* [Google Doc Clone](https://github.com/ngtrgiabao/google-doc-clone) - Simple Google Doc with React, TypeScript, JWT, TailwindCSS, Socket.io, Nodemailer
+* [Codepen Clone](https://github.com/ngtrgiabao/codepen-clone) - A simple code editor using React, Firebase, Redux, TypeScript
+* [Collab White Board](https://github.com/ngtrgiabao/codepen-clone) - A white board you can draw in real time, built with React, Typescript, Socket.io
 * [Yanji Social](https://github.com/ngtrgiabao/yanji-social) - Full-stack Social Media Platform with React, TailwindCSS, MongoDB, Socket.io
 * [Meet With Us](https://github.com/ngtrgiabao/meet-with-us) - Google Meet Clone with React, TailwindCSS, Firebase, MongoDB, Socket.io
 * [Shoes Shop](https://ngtrgiabao.github.io/Shoes-shop/) - UI Shoes Shop with HTML, CSS, JavScript
